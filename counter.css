@@ -1,0 +1,35 @@
+body {
+    margin: 0;
+    background-image: url("background.jpg");
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+
+.screen {
+    font-family: 'Comic Neue', cursive;
+    font-family: 'Kanit', sans-serif;
+    font-size: 35px;
+    color: white;
+    text-align: center;
+    font-weight: 600;
+}
+
+.btn {
+    display: flex;
+    justify-content: center;
+}
+
+button {
+    padding: 10px;
+    margin: 10px;
+    width: 5cm;
+    height: 1cm;
+    font-family: 'Comic Neue', cursive;
+    font-family: 'Kanit', sans-serif;
+    border: none;
+    border-radius: 10 solid grey;
+    border-radius: 20px;
+    font-size: 20px;
+}
+
